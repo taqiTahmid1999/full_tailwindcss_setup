@@ -1,11 +1,11 @@
-1. ``npm init``
-2. ``npm install tailwindcss @tailwindcss/postcss postcss``
-3. ``npm i -D cssnano prettier prettier-plugin-tailwindcss``
-4. ``npm i -g postcss-cli (if not installed)``
-5. ``mkdir assets main``
-6. ``touch assets/tailwind.css main/index.html main/styles.css .gitignore .prettierignore .prettierrc postcss.config.mjs``
+1. ```npm init```
+2. ```npm install tailwindcss @tailwindcss/postcss postcss```
+3. ```npm i -D cssnano prettier prettier-plugin-tailwindcss```
+4. ```npm i -g postcss-cli``` (if not installed)
+5. ```mkdir assets main```
+6. ```touch assets/tailwind.css main/index.html main/styles.css .gitignore .prettierignore .prettierrc postcss.config.mjs```
 7. //assets/tailwind.css\
-   ``@import "tailwindcss";`` 
+   ```@import "tailwindcss";`` `
 8. //main/index.html
 ```
 <!doctype html>
