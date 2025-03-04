@@ -7,9 +7,10 @@
 3. ```
    npm i -D cssnano prettier prettier-plugin-tailwindcss
    ```
-4. ```
+4. //(if not installed)
+   ```
    npm i -g postcss-cli
-   ``` \(if not installed)
+   ```
 5. ```
     mkdir assets main
    ```
